@@ -1,0 +1,69 @@
+"board","ns_location","ew_location","map_board","x","y","area","map","n_board"
+"Albury","south","slopes","Albury",1341661.97917841,-3983021.61184556,4062,"yes",1
+"Armidale","north","tablelands","Armidale",1853050.69929854,-3495355.67104401,17611,"yes",1
+"Balranald","west","plains","Balranald",1074753.72417477,-3753946.69415889,20561,"yes",1
+"Bathurst","central","tablelands","Bathurst",1631815.16005099,-3769355.90344062,10871,"yes",1
+"Berrima","central","coast","Moss Vale",1701944.64295184,-3846829.35979113,17670,"yes",6
+"Bombala","south","tablelands","Bombala",1518038.01681945,-4134486.35579959,4029,"yes",1
+"Bourke","west","plains","Bourke",1302649.73799409,-3336166.95291617,40729,"yes",1
+"Braidwood","south","tablelands","Braidwood",1607413.9210896,-3987991.62894435,8794,"yes",3
+"Brewarrina","west","plains","Brewarrina",1436776.23231793,-3311757.5938857,14069,"yes",1
+"Broken Hill","west","plains","Broken Hill",926260.36310709,-3516587.16583078,43568,"yes",1
+"Broulee","south","coast","Braidwood",1607413.9210896,-3987991.62894435,8794,"yes",3
+"Canonba","central","slopes","Canonba",1423416.79168847,-3516145.38856625,16334,"yes",1
+"Carcoar","central","tablelands","Carcoar",1575089.78200469,-3807486.18590358,6203,"yes",1
+"Casino","north","tablelands","Casino",2005684.08181589,-3293042.66241713,6563,"yes",1
+"Cobar","west","plains","Cobar",1265823.38254976,-3504077.0921783,32561,"yes",1
+"Condobolin","central","slopes","Condobolin",1381308.60331299,-3685686.9611489,18807,"yes",1
+"Coonabarabran","central","slopes","Coonabarabran",1619846.75155975,-3531623.00722255,12222,"yes",1
+"Coonamble","central","slopes","Coonamble",1528400.4493401,-3466753.61469827,11334,"yes",1
+"Corowa","south","slopes","Corowa",1273275.28830715,-3977713.24122334,3276,"yes",1
+"Cumberland","central","coast","Moss Vale",1701944.64295184,-3846829.35979113,17670,"yes",6
+"Deniliquin","south","slopes","Deniliquin",1160406.70641249,-3929061.31078627,9623,"yes",1
+"Denman","central","tablelands","Denman - Singleton",1744547.39663513,-3679999.61446621,7913,"yes",2
+"Dubbo","central","slopes","Dubbo",1530663.54754762,-3603604.18041837,16581,"yes",1
+"Eden","south","coast","Eden",1583922.21058752,-4114524.62197993,8597,"yes",1
+"Forbes","central","slopes","Forbes",1465955.72713602,-3735900.83421937,12519,"yes",1
+"Holbrook","south","tablelands","Wagga",1390477.53875962,-3880987.04403524,12151,"yes",2
+"Glen Innes","north","tablelands","Glen Innes",1909983.65266163,-3401829.31847081,7491,"yes",1
+"Gloucester","central","coast","Gloucester",1873815.39108179,-3640115.78141726,11218,"yes",1
+"Goulburn","south","tablelands","Goulburn",1612312.39183811,-3899895.64428176,6526,"yes",1
+"Grafton","north","coast","Grafton",1986081.54522756,-3397926.66196967,10367,"yes",1
+"Gundagai","south","tablelands","Gundagai",1461936.56488524,-3941050.11378054,8895,"yes",1
+"Hay","south","slopes","Hay",1203875.50873323,-3796786.6056019,20775,"yes",1
+"Hillston","west","plains","Hillston",1209325.48521912,-3650779.44481132,32050,"yes",1
+"Hume","south","tablelands","Hume",1422166.41864689,-4010776.73819096,6643,"yes",1
+"Inverell","north","tablelands","Inverell",1827059.30553546,-3368205.30166835,4868,"yes",1
+"Ivanhoe","west","plains","Wilcannia",1080895.99930068,-3459815.88936909,44061,"yes",2
+"Jerilderie","south","slopes","Jerilderie",1236577.63874549,-3919530.90319993,6173,"yes",1
+"Kiama","south","coast","Moss Vale",1701944.64295184,-3846829.35979113,17670,"yes",6
+"Tweed-Lismore","north","coast","Tweed-Lismore",2055931.2700228,-3296640.96492323,4442,"yes",1
+"Maitland","central","coast","Maitland",1795601.96005581,-3722415.89012032,8541,"yes",1
+"Merriwa","central","tablelands","Merriwa",1689736.62343902,-3611147.889022,4479,"yes",1
+"Milparinka","west","plains","Milparinka",951524.0954682,-3283381.45213448,31228,"yes",1
+"Molong","central","slopes","Molong",1534097.13978851,-3698070.05509991,8616,"yes",1
+"Moree","north","slopes","Moree",1683509.79537186,-3308922.48699898,15631,"yes",1
+"Moulamein","south","slopes","Moulamein",1085034.70758787,-3875566.16849654,8642,"yes",1
+"Mudgee","central","tablelands","Mudgee",1646834.41970746,-3674971.05125051,10565,"yes",1
+"Narrabri","north","slopes","Narrabri",1680682.92390242,-3409369.45015409,7966,"yes",1
+"Narrandera","south","slopes","Narrandera",1311288.83454541,-3824932.57577316,12395,"yes",1
+"North Walgett","north","slopes","North Walgett",1533848.43022134,-3303095.31590489,12562,"yes",1
+"Picton","central","coast","Moss Vale",1701944.64295184,-3846829.35979113,17670,"yes",6
+"Pilliga","north","slopes","Pilliga",1612411.06409594,-3411860.58774559,8588,"yes",1
+"Port Macquarie","north","coast","Port Macquarie",1943210.94781546,-3533926.48630045,10088,"yes",1
+"Queanbeyan","south","tablelands","Braidwood",1607413.9210896,-3987991.62894435,8794,"yes",3
+"Singleton","central","tablelands","Denman - Singleton",1744547.39663513,-3679999.61446621,7913,"yes",2
+"Sydney","central","coast","Moss Vale",1701944.64295184,-3846829.35979113,17670,"yes",6
+"Tamworth","north","tablelands","Tamworth",1744145.42414715,-3511169.23911456,19643,"yes",1
+"Tenterfield","north","tablelands","Tenterfield",1904145.87975551,-3306380.63927408,11025,"yes",1
+"Upper Hunter","central","tablelands","Upper Hunter",1774096.14515603,-3612486.49478741,4068,"yes",1
+"Urana","south","slopes","Urana",1301651.55851638,-3917910.52102086,4776,"yes",1
+"Wagga","south","slopes","Wagga",1390477.53875962,-3880987.04403524,12151,"yes",2
+"Walgett","north","slopes","Walgett",1523407.89691244,-3376929.02686625,9628,"yes",1
+"Wanaaring","west","plains","Wanaaring",1128318.0740578,-3265183.79829065,26392,"yes",1
+"Warialda","north","slopes","Warialda",1770035.60200394,-3310870.76267345,13854,"yes",1
+"Wentworth","west","plains","Wentworth",939355.81970181,-3696581.8580181,26575,"yes",1
+"Wilcannia","west","plains","Wilcannia",1080895.99930068,-3459815.88936909,44061,"yes",2
+"Windsor","central","tablelands","Moss Vale",1701944.64295184,-3846829.35979113,17670,"yes",6
+"Yass","south","tablelands","Yass",1540845.89981456,-3910719.16068548,6133,"yes",1
+"Young","south","slopes","Young",1490055.36647308,-3839743.22658283,10192,"yes",1
